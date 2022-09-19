@@ -2,7 +2,7 @@
 I am an embedded engineer with 8+ years of experience in developing enterprise applications and embedded software and hardware. Currently, I am interested in development of autonomus vehicles. here is my [resume](https://drive.google.com/file/d/1VuGVXOEQkELri4OEl_Eq25cBU-RwAGFl/view?usp=sharing).
 This is the place where I opensource stuff and break things :rofl: You can have an overview of my prtofilio by checking the products of our research group at [Racoonlab](https://raccoonlab.org/).
 
-- 🔭 &nbsp;I’m currently working on something cool :wink: 
+- 🔭 &nbsp;I’m currently working on [something](https://www.researchgate.net/publication/357610060_Walking_Robot_Control_with_a_Machine_Learning-based_Ground_Reaction_Force_Predictor_and_Generated_Linear_Contact_Model) cool :wink: 
 - 🌱 &nbsp;I’m currently learning more on Deep Learning
 - 💬 &nbsp;Ask me about anything related to C, CPP, Embedded Systems related protocols
 - 📫 &nbsp;How to reach me: [@ethanshagaei](https://t.me/ethanshagaei) or my [email](e.shaghaei@innopolis.university)
