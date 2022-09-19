@@ -17,8 +17,8 @@ This is the place where I opensource stuff and break things :rofl: You can have 
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://dev.to/ehsan2754" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ehsan2754" height="30" width="40" /></a>
+<!-- <p align="left">
+<a href="https://dev.to/ehsan2754" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ehsan2754" height="30" width="40" /></a> -->
 <a href="https://twitter.com/ehsan2754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehsan2754" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ehsanshaghaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehsanshaghaei" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15767514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
