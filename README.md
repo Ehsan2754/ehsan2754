@@ -1,8 +1,8 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-I am an embedded engineer with 8+ years of experience in developing enterprise applications and embedded software and hardware and here is my [resume](https://drive.google.com/file/d/1VuGVXOEQkELri4OEl_Eq25cBU-RwAGFl/view?usp=sharing).
+I am an embedded engineer with 8+ years of experience in developing enterprise applications and embedded software and hardware. Currently, I am interested in development of autonomus vehicles. here is my [resume](https://drive.google.com/file/d/1VuGVXOEQkELri4OEl_Eq25cBU-RwAGFl/view?usp=sharing).
 This is the place where I opensource stuff and break things :rofl: You can have an overview of my prtofilio by checking the products of our research group at [Racoonlab](https://raccoonlab.org/).
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🔭 &nbsp;I’m currently working on something cool :wink: 
 - 🌱 &nbsp;I’m currently learning more on Deep Learning
 - 💬 &nbsp;Ask me about anything related to C, CPP, Embedded Systems related protocols
 - 📫 &nbsp;How to reach me: [@ethanshagaei](https://t.me/ethanshagaei) or my [email](e.shaghaei@innopolis.university)
