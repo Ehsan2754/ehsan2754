@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things :rofl: You can have 
 - 📫 &nbsp;How to reach me: [@ethanshagaei](https://t.me/ethanshagaei) or my [email](e.shaghaei@innopolis.university)
 - 👨‍💻 &nbsp;Read more about my [project](https://github.com/Ahuratus/Trajectory-Detection-Web-services/blob/main/README.md).
 - ⚡ &nbsp;Fun fact: I :heart: Freddie Mercury and lifting weights.
-📕 &nbsp;**Latest Blog Posts**
+<!-- 📕 &nbsp;**Latest Blog Posts** -->
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
