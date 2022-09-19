@@ -4,9 +4,9 @@ This is the place where I opensource stuff and break things :rofl: You can have 
 
 - 🔭 &nbsp;I’m currently working on [something](https://www.researchgate.net/publication/357610060_Walking_Robot_Control_with_a_Machine_Learning-based_Ground_Reaction_Force_Predictor_and_Generated_Linear_Contact_Model) cool :wink: 
 - 🌱 &nbsp;I’m currently learning more on Deep Learning
-- 💬 &nbsp;Ask me about anything related to C, CPP, Embedded Systems related protocols
+- 💬 &nbsp;Ask me about anything related to C, CPP, Embedded Systems related protocols, PCB and Schematic designing.
 - 📫 &nbsp;How to reach me: [@ethanshagaei](https://t.me/ethanshagaei) or my [email](e.shaghaei@innopolis.university)
-- 👨‍💻 &nbsp;Read more about my projects at my blog! PS. TBA
+- 👨‍💻 &nbsp;Read more about my [project](https://github.com/Ahuratus/Trajectory-Detection-Web-services/blob/main/README.md).
 - ⚡ &nbsp;Fun fact: I :heart: Freddie Mercury and lifting weights.
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
