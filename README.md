@@ -1,6 +1,6 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 I am an embedded engineer with 8+ years of experience in developing enterprise applications and embedded software and hardware. Currently, I am interested in development of autonomus vehicles. here is my [resume](https://drive.google.com/file/d/1VuGVXOEQkELri4OEl_Eq25cBU-RwAGFl/view?usp=sharing).
-This is the place where I opensource stuff and break things :rofl: You can have an overview of my prtofilio by checking the products of our research group at [Racoonlab](https://raccoonlab.org/).
+This is the place where I share my opensource stuff and break things :rofl: You can have an overview of my prtofilio by checking the products of our research group at [Racoonlab](https://raccoonlab.org/).
 
 - 🔭 &nbsp;I’m currently working on [something](https://www.researchgate.net/publication/357610060_Walking_Robot_Control_with_a_Machine_Learning-based_Ground_Reaction_Force_Predictor_and_Generated_Linear_Contact_Model) cool :wink: 
 - 🌱 &nbsp;I’m currently learning more on Deep Learning
