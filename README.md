@@ -24,10 +24,11 @@ This is the place where I share my opensource stuff and break things :rofl: You 
 <a href="https://stackoverflow.com/users/15767514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/ehsansh2754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ehsansh2754" height="30" width="40" /></a>
 
+<!--
 📊 &nbsp;**This week I spent my time on**
 
 ![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsan2754&show_icons=true)
-<!-- 
+ 
 
 <details>
 
