@@ -2,8 +2,8 @@
 I am an embedded engineer with 8+ years of experience in developing enterprise applications and embedded software and hardware. Currently, I am interested in development of autonomus vehicles and I work in Autonomus Technologies Laboratory of Innopolis.I also sometimes do hobby projects with my friends at [Racoon Lab](https://www.youtube.com/channel/UC1a0E6OTD6u-VYZ1xY8YGJg). here is my [resume](https://github.com/ehsan2754/resume/releases/latest/download/resume.pdf) , get my latest release!
 This is the place where I share my opensource stuff and break things :rofl: You can have an overview of my prtofilio by checking the products of our research group at [Racoonlab](https://raccoonlab.org/).
 
-- 🔭 &nbsp;I’m currently working on [something](https://www.researchgate.net/publication/357610060_Walking_Robot_Control_with_a_Machine_Learning-based_Ground_Reaction_Force_Predictor_and_Generated_Linear_Contact_Model) cool :wink: 
-- 🌱 &nbsp;I’m currently learning more on Deep Learning
+- 🔭 &nbsp;I’m currently working on [something](https://github.com/Ehsan2754/lunarlander_gym) cool :wink: 
+- 🌱 &nbsp;I’m currently learning more on Deep Reinforcement Learning
 - 💬 &nbsp;Ask me about anything related to C, CPP, Embedded Systems related protocols, PCB and Schematic designing.
 - 📫 &nbsp;How to reach me: [@ethanshagaei](https://t.me/ethanshagaei) or my [email](e.shaghaei@innopolis.university)
 - 👨‍💻 &nbsp;Read more about my fun [project](https://github.com/Ahuratus/Trajectory-Detection-Web-services/blob/main/README.md).
