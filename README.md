@@ -1,11 +1,13 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-I am an embedded engineer with 8+ years of experience in developing enterprise applications and embedded software and hardware. Currently, I am interested in development of autonomus intellegent systems and I work in Yandex Smart Station Team.I also sometimes do hobby projects with my friends  [Ahuratus](https://github.com/Ahuratus). here is my [resume](https://github.com/ehsan2754/resume/releases/latest/download/resume.pdf) , get my latest release!
+I am an embedded engineer over a decade of experience in developing enterprise embedded software and hardware. Currently, I am interested in development of autonomus high-precision systems and I work at WenglorMEL.
+
+I also sometimes do hobby projects with my friends  [Ahuratus](https://github.com/Ahuratus). here is my [resume](https://github.com/ehsan2754/resume/releases/latest/download/resume.pdf) , get my latest release!
 This is the place where I share my opensource stuff and break things :rofl: 
 
 - 🔭 &nbsp;I’m currently working on [something](https://github.com/Ehsan2754/lunarlander_gym) cool :wink: 
 - 🌱 &nbsp;I’m currently learning more on Deep Reinforcement Learning
-- 💬 &nbsp;Ask me about anything related to C, CPP, Embedded Systems related protocols, PCB and Schematic designing.
-- 📫 &nbsp;How to reach me: [@ethanshagaei](https://t.me/ethanshagaei) or contact@byehsan.com
+- 💬 &nbsp;Ask me about anything related to C, CPP, standard C library and systemcalls, Yocto, Embedded Systems related protocols, PCB and Schematic designing.
+- 📫 &nbsp;How to reach me: [@ethanshagaei](https://t.me/byehsan) or contact@byehsan.com
 - 👨‍💻 &nbsp;Read more about my fun [project](https://github.com/Ahuratus/Trajectory-Detection-Web-services/blob/main/README.md).
 - ⚡ &nbsp;Fun fact: I :heart: Freddie Mercury and lifting weights.
 - 📕 &nbsp;Check out my blog! https://ehsan2754.github.io/FunWithScience
