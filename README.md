@@ -7,7 +7,7 @@ This is the place where I share my opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on [something](https://github.com/Ehsan2754/lunarlander_gym) cool :wink: 
 - 🌱 &nbsp;I’m currently learning more on Deep Reinforcement Learning
 - 💬 &nbsp;Ask me about anything related to C, CPP, standard C library and systemcalls, Yocto, Embedded Systems related protocols, PCB and Schematic designing.
-- 📫 &nbsp;How to reach me: [@ethanshagaei](https://t.me/byehsan) or contact@byehsan.com
+- 📫 &nbsp;How to reach me: [@byehsan](https://t.me/byehsan) or contact@byehsan.com
 - 👨‍💻 &nbsp;Read more about my fun [project](https://github.com/Ahuratus/Trajectory-Detection-Web-services/blob/main/README.md).
 - ⚡ &nbsp;Fun fact: I :heart: Freddie Mercury and lifting weights.
 - 📕 &nbsp;Check out my blog! https://ehsan2754.github.io/FunWithScience
