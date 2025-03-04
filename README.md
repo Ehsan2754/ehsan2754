@@ -8,7 +8,7 @@ This is the place where I share my opensource stuff and break things :))
 - 🌱 &nbsp;I’m currently learning more on Deep Reinforcement Learning
 - 💬 &nbsp;Ask me about anything related to C/C++, libgc, Yocto, Embedded Systems related protocols, PCB and Schematic designing.
 - 📫 &nbsp;How to reach me: [@byehsan](https://t.me/byehsan) or contact@byehsan.com
-- 👨‍💻 &nbsp;Read more about my fun [project](https://github.com/Ahuratus/Trajectory-Detection-Web-services/blob/main/README.md).
+- 👨‍💻 &nbsp;Read more about my most recent pet [project](https://github.com/ehsan2754/stress-cl).
 - ⚡ &nbsp;Fun fact: I :heart: Freddie Mercury and lifting weights.
 - 📕 &nbsp;Check out my blog! https://ehsan2754.github.io/FunWithScience
 <!-- BLOG-POST-LIST:START -->
